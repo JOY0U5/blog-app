@@ -1,0 +1,23 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "simple blog app for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JOY0U5/blog-app.git"
+  },
+  "author": "Joy Lindstrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JOY0U5/blog-app/issues"
+  },
+  "homepage": "https://github.com/JOY0U5/blog-app#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
